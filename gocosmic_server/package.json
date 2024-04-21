@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "create-node-app": "^1.4.4",
+    "express": "^4.19.2",
+    "nodemailer": "^6.9.13"
+  }
+}
